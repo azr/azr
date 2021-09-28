@@ -25,5 +25,7 @@ I'm Adrien, I currently work on the Packer team at HashiCorp.
 
 * I like learning and variety. I have previously worked on embedded systems, a social network, video games, geolocation software, perceptual image hashing, web, big data, devops and devops tools.
 * I love open source and working on open source software. It makes me feel like my work is going to survive.
-* I really like Go, and come from a C/C++ background/school. I taught myself Go over a weekend back in December 2014 and got my first go job after contributing to a few open source project. I have been working with Go ever since. I wouldn't mind learning new languages at all though.
+* I really like Go, and come from a C/C++ background/school. I taught myself Go over a weekend back in December 2014 and got my first go job after contributing to a few open source projects. I have been working with Go ever since. I wouldn't mind learning new languages at all though.
+* I have many values, but for work I try to put first integrity, kindness, communications and beautiful work; and if on top of that we can sprinkle some fun, I'm going to strive.
+* I'm really close to what you could describe as ADHD and also quite sensitive.
 * Outside of work I love travel, dancing, and spending time with my family.
