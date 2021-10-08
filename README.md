@@ -29,4 +29,4 @@ I'm Adrien, I currently work on the Packer team at HashiCorp.
 * I have many values, but these days, I try to put first empathy, kindness, communications and beautiful work; and if we can sprinkle some fun on top of that, I'm going to be quite happy.
 * I'm really close to what you could describe as ADHD and also quite sensitive.
 * Outside of work I love traveling, dancing, and spending time with my family.
-* Fun fact, I used to live on a sailboat as a kiddo with my familly. It pretty much looked like this one: ⛵. In general, I really enjoy the freedom and travelling. But not in a _visit a country for 2 weeks and then go somewhere else_ kind of way; More in a _live there for a few months to a few years_ manner.
+* Fun fact, I used to live on a sailboat as a kiddo with my familly. It pretty much looked like this one: ⛵. In general, I really enjoy the freedom, travelling and living abroad.
