@@ -24,7 +24,7 @@ I'm Adrien.
 * I like learning and variety. I have previously worked on embedded systems, a (now dead) social network, video games, geolocation software, perceptual image hashing, web, big data, devops, and devops tools.
 * I love open source and working on open source software. It makes me feel like my work is going to survive. I also love that anyone can see and collaborate on the things I work on.
 * I really like Go, started working professionally in Go in December 2014, and come from a mainly C/C++ school.
-* I recently started having Rust side projects and would also love to work with Rust professionally.
+* I recently started having Rust side projects and work on a lot of Rust projects at Hugging Face.
 * Outside of work, I love travelling, dancing, and spending time with my family.
   
 ## I'm exited about
