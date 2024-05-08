@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 I'm Adrien.
-I work for Hugging Face and have worked a HashiCorp, NorthVolt and Poki.io
+I work for Hugging Face and have worked a HashiCorp, NorthVolt and Poki
 
 ## Here are some things about me:
 
