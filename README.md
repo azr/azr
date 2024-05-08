@@ -31,5 +31,5 @@ I'm Adrien.
 
 * blurring the backend/frontend lines
 * video games
-* big traffic
+* big traffic & performances
 * local first software
